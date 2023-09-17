@@ -71,7 +71,7 @@ This chart made it easy of us to understand customer behaviours in regards to wh
 ### Monthly Revenue 
 This line chart shows us that sales generally picks up from January with few downslopes but steady climbing till August, By August there is a sharp surge in products sales and it hits the peak by November. By Mid November we start to notice sharp downslope again until January when sales will gradually start picking up. 
 
-![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Monthly%20Revenue%20Trend.PNG)
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Monthly%20Revenue.PNG)
 
 ## Dashboard View 
 This is how we represent all our analysis on visualization, while some can not be shown indept above, we explain the analysis below. 
