@@ -88,6 +88,9 @@ This is how we represent all our analysis on visualization, while some can not b
 
 
 
+### Thank You 
+For more info you can [Email me](muideenadeakanni@gmail.com)
+For [LinkedIn](https://www.linkedin.com/in/muideenadeakanni/)
 
 
 
