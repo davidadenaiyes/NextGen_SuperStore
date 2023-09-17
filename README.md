@@ -28,7 +28,68 @@ NextGen, an  e-commerce company wants to optimize its online sales by analyzing 
 
 ## Skills and Concepts demonstrated 
 
-For this project I will be using **_Tableau_** to clean my dataset,  run my hypothesis and finally plotting my analysis on visualization. 
+For this project I will be using **_Tableau_** to clean my dataset, run my hypothesis and finally plotting my analysis on visualization.
+
+## Visualization 
+- Line Chart
+- World  Map Chart
+- Butterfly Chart
+- Heat Map
+
+## Modelling 
+I did basic data cleaning using the filter function in tableau to filter out the _Null_ values. I also made sure that each column is appropraite format (Date, Text, Number) etc. 
+
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Data%20Cleaning.PNG)
+
+## Analysis
+
+### Line Chart 
+This analysis when plotted reveals the sales trend over time and I am able to see the peak months and years. I further analyzed the data and I was able to forecast sales trend for the coming year. 
+
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Sales%20over%20time.PNG)
+
+### World Map Chart
+This world map shpws the general distribution of products all around the world. i round up sales in each country against total sales and made the answer to be in percentage for easier undrstanding. 
+
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/World%20Map.PNG)
+
+### Butterfly Chart
+This chart was created using my advance skills in *Bar Chart*. With this chat we are able to see how each product sells by category while I filter it by *Top 10 countries* and *Bottom 10 countries*.
+
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Top%20Countries%20by%20Revenue.PNG)
+
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Bottom%20Countries%20by%20revenue.PNG)
+
+### Heat Map
+This chart made it easy of us to understand customer behaviours in regards to which product they buy and how often they purchase such product. We plotted Customer ID against count of products sold to derive this wonderful insights. 
+
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Most%20Sold%20Product.PNG)
+
+### Monthly Revenue 
+This line chart shows us that sales generally picks up from January with few downslopes and steady climbing till August, By August there is a sharp surge in products sold and it hits the peak by November. By Decemeber we start to notice sharp downslope again until JAnuary when sales will gradually pick up. 
+
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Monthly%20Revenue%20Trend.PNG)
+
+### Dashboard View 
+This is how we represent all our analysis on visualization and so analysis like
+- *Total Revenue* which was calculated by Sum(Sales Prices)
+- *Total Customer* which was calculated by Distinct Count of Customer ID
+- *Number Of Countries* which was calulated by Distinct Count of Country
+- *Average price* which was calculated by Avg(Price)
+- *Minimum* and *Maximum Price* were both calculated as _MIN(Price)_ and _MAX(Price)_ respectively.
+
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Dashboard.PNG)
+
+
+## Conclusion and Recommendations 
+
+
+
+
+
+
+
+
 
 
 
