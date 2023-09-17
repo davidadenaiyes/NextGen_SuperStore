@@ -1,8 +1,10 @@
-# NextGen Retail sales Optimization Analysis
+# NextGen Retail Sales Optimization Analysis
 ![Data Analyst]()
 
 ## Introduction
 NextGen emporium is an online retail store that seeks insights from its data for informed business decisions. However, they recently observed that they do not have adequate data insights to answer pressing business issues on sales improvement.
+
+**_Disclaimer_**: _All datasets and reports do not represent any company, institution or country. All info are dummy dataset to demonstrate my capabilities in Tableau._
 
 ## Problem Statement
 NextGen, an  e-commerce company wants to optimize its online sales by analyzing its sales data and customer behavior to improve its product offerings and marketing strategies. I split the analysis into 3 major categories. **_Sales Performance, Customer Insights & Product Performance_**
@@ -36,7 +38,7 @@ For this project I will be using **_Tableau_** to clean my dataset, run my hypot
 - Heat Map
 
 ## Modelling 
-I did basic data cleaning using the filter function in tableau to filter out the _Null_ values. I also made sure that each column is appropraite format (Date, Text, Number) etc. 
+I did basic data cleaning using the filter function in tableau to filter out the _Null_ values. I also made sure that each column is appropriate format (Date, Text, Number) etc. 
 
 ![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Data%20Cleaning.PNG)
 
@@ -48,29 +50,31 @@ This analysis when plotted reveals the sales trend over time and I am able to se
 ![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Sales%20over%20time.PNG)
 
 ### World Map Chart
-This world map shpws the general distribution of products all around the world. i round up sales in each country against total sales and made the answer to be in percentage for easier undrstanding. 
+This world map shows the general distribution of products all around the world. I round up sales in each country against total sales and made the answer to be in percentage for easier understanding. 
 
 ![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/World%20Map.PNG)
 
 ### Butterfly Chart
-This chart was created using my advance skills in *Bar Chart*. With this chat we are able to see how each product sells by category while I filter it by *Top 10 countries* and *Bottom 10 countries*.
+This chart was created using my advance skills in *Bar Chart*. With this chat we are able to see how each product sells by category while I filter it by top and bottom 10 countries.
 
+*Top 10 countries*
 ![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Top%20Countries%20by%20Revenue.PNG)
 
+*Bottom 10 countries*
 ![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Bottom%20Countries%20by%20revenue.PNG)
 
 ### Heat Map
-This chart made it easy of us to understand customer behaviours in regards to which product they buy and how often they purchase such product. We plotted Customer ID against count of products sold to derive this wonderful insights. 
+This chart made it easy of us to understand customer behaviours in regards to which product they buy and how often they purchase such product. We plotted Customer ID against count of products sold to derive this wonderful insights. **_The product Manual is the most sold product_**
 
 ![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Most%20Sold%20Product.PNG)
 
 ### Monthly Revenue 
-This line chart shows us that sales generally picks up from January with few downslopes and steady climbing till August, By August there is a sharp surge in products sold and it hits the peak by November. By Decemeber we start to notice sharp downslope again until JAnuary when sales will gradually pick up. 
+This line chart shows us that sales generally picks up from January with few downslopes but steady climbing till August, By August there is a sharp surge in products sales and it hits the peak by November. By Mid November we start to notice sharp downslope again until January when sales will gradually start picking up. 
 
 ![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Monthly%20Revenue%20Trend.PNG)
 
-### Dashboard View 
-This is how we represent all our analysis on visualization and so analysis like
+## Dashboard View 
+This is how we represent all our analysis on visualization, while some can not be shown indept above, we explain the analysis below. 
 - *Total Revenue* which was calculated by Sum(Sales Prices)
 - *Total Customer* which was calculated by Distinct Count of Customer ID
 - *Number Of Countries* which was calulated by Distinct Count of Country
