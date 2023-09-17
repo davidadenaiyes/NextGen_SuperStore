@@ -1,5 +1,4 @@
-# NextGen
-NextGen Retail sales Optimization Analysis
+# NextGen Retail sales Optimization Analysis
 ![Data Analyst]()
 
 ## Introduction
