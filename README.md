@@ -1,5 +1,5 @@
 # NextGen Retail Sales Optimization Analysis
-![Data Analyst]()
+![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Store%20View.jpg)
 
 ## Introduction
 NextGen emporium is an online retail store that seeks insights from its data for informed business decisions. However, they recently observed that they do not have adequate data insights to answer pressing business issues on sales improvement.
@@ -82,10 +82,6 @@ This is how we represent all our analysis on visualization, while some can not b
 - *Minimum* and *Maximum Price* were both calculated as _MIN(Price)_ and _MAX(Price)_ respectively.
 
 ![Data Analyst](https://github.com/princeadeakanni/NextGen/blob/main/Dashboard.PNG)
-
-
-## Conclusion and Recommendations 
-
 
 
 ### Thank You 
